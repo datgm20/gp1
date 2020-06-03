@@ -13,7 +13,8 @@
 - https://docs.google.com/document/d/16NzK1ESd0MJFnHQ-otKFKyw8mqWHgnl1egtj1usWrug/
 
 ## 予定
-- ガイダンス - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tlVWmEGx-XJvimOA?e=qdTo1h)の確認
+- GitHubのメール確認・・・昨日、登録できなかった人は、メールアドレスを間違えているので修正を！
+- ガイダンス / [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tlVWmEGx-XJvimOA?e=qdTo1h)の確認
 - Visual Studioを試す
   - 起動 / プロジェクト作成 / ボタンの配置 / メッセージの表示
 - Unityを試す
