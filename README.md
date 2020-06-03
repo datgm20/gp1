@@ -27,5 +27,5 @@
 
 ## 演習
 - タイピング結果を報告する
-  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/13IyWguSAEqxOa6fkID_B7BcLyzoe_1Lc3lRZKlJbXLk/)
+  - [報告用のスプレッドシート](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
 
