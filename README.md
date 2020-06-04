@@ -4,7 +4,7 @@
 # 参考URL
 
 # 授業資料
-- [ライブ配信]()
+- [ライブ配信](https://www.youtube.com/embed/W0k6L-vMgvQ?mute=1;autoplay=1)
 - [質問](https://meet.google.com/cgd-domk-dut)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
 
