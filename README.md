@@ -16,6 +16,7 @@
 
 ## 予定
 - GitHubのメール確認・・・昨日、登録できなかった人は、メールアドレスを間違えているので修正を！
+- GitHubのSettingsで、名前を設定
 - ガイダンス / [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tlVWmEGx-XJvimOA?e=qdTo1h)の確認
 - Visual Studioを試す
   - 起動 / プロジェクト作成 / ボタンの配置 / メッセージの表示
