@@ -31,6 +31,14 @@
 - 昨日のミニゲームの残り
 - プロパティの確認
 
+## 企画の提出方法(昨日、提出していない人のみ)
+- 作成したスライドの右上の 共有 をクリック
+- リンクを取得の下にある「リンクを知っている全員に変更」をクリック
+- リンクをコピー をクリック
+- 完了 をクリック
+- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
+- 自分の名前の右の欄に、右クリックして貼り付け
+
 ## 演習
 - 新規にプロジェクトを作成
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
