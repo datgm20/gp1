@@ -9,6 +9,26 @@
 - [質問](https://meet.google.com/yav-uzhd-wjq)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
 
+# 3回目
+## 予定
+- GitHubを開いてSign inしたら、csharp-manual を開く
+- 03.mdをクリックして開く
+
+## 復習
+- Visual C#の新規プロジェクトを作成して、名前を`fukuc0624`にする
+- ボタンを3つ配置する
+- ボタンを押すと、何かを表示したり、動いたり、3つのボタンそれぞれが違う動作をするようにする
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+  - これで提出完了
+
+## 予定
+- 新規にプロジェクトを作成して、名前を`v0624`とする
+- GitHubにパブリッシュする
+- 書く教科書の3から
+- 作業が終わったら、[プロジェクトの更新を、GitHubに反映させる](https://github.com/datgm20/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92%E3%80%81GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B) で、最終結果を
+- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+
+
 # 2回目
 ## 講義ノート
 自分で完成させるC#教科書を作る。
@@ -26,25 +46,9 @@
 
 以上で、自分のGitHub上に書く教科書がコピーされました。必要な項目を自分で書き加えていき、完成させてください。
 
-## 予定
+## 内容
 - Visual Studioの基本操作
 - 昨日のミニゲームの残り
-- プロパティの確認
-
-## 企画の提出方法(昨日、提出していない人のみ)
-- 作成したスライドの右上の 共有 をクリック
-- リンクを取得の下にある「リンクを知っている全員に変更」をクリック
-- リンクをコピー をクリック
-- 完了 をクリック
-- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
-- 自分の名前の右の欄に、右クリックして貼り付け
-
-## 演習
-- 新規にプロジェクトを作成
-- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
-- ボタンを3つ作成する
-- 作成した3つのボタンそれぞれに、押すと「文字が変わる」「場所が移動する」「消える」以外の変化をさせるプログラムを作成せよ
-- [プロジェクトの更新を、GitHubに反映させる](https://github.com/datgm20/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92%E3%80%81GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B) > これで提出になる
 
 
 # 1回目
