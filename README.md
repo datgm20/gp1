@@ -8,6 +8,7 @@
 # 授業資料
 - [質問](https://meet.google.com/yav-uzhd-wjq)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
+- [講義動画-02](https://youtu.be/OXJdRh83uiw)
 
 # 3回目
 ## 予定
@@ -30,8 +31,6 @@
 
 
 # 2回目
-- [講義動画](https://youtu.be/OXJdRh83uiw)
-
 ## 講義ノート
 自分で完成させるC#教科書を作る。
 
