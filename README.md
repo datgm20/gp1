@@ -10,8 +10,23 @@
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
 - [講義動画-02](https://youtu.be/OXJdRh83uiw)
 
-# 3回目
+# 4回目
+## 復習
+- Visual C#の新規プロジェクトを作成して、名前を`fukuv0702`にする
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- ボタンを2つ配置する
+- ボタンを押すと、ボタンが消える、ボタンの表示が変わるようにする
+- できたらコミットして、Pushする
+
+
 ## 予定
+- GitHubを開いてSign inしたら、csharp-manual を開く
+- 05.md 計算 から
+- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+
+
+# 3回目
+## 内容
 - GitHubを開いてSign inしたら、csharp-manual を開く
 - 03.mdをクリックして開く
 
@@ -22,12 +37,11 @@
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
   - これで提出完了
 
-## 予定
+## 内容
 - 新規にプロジェクトを作成して、名前を`v0625`とする
 - GitHubにパブリッシュする
 - 書く教科書の3から
 - 作業が終わったら、[プロジェクトの更新を、GitHubに反映させる](https://github.com/datgm20/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92%E3%80%81GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B) で、最終結果を
-- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 
 
 # 2回目
