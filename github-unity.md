@@ -1,7 +1,7 @@
 # UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順
 
 - Unityでプロジェクトを作成しておく
-- [Ctrl]+[S]キーでシーンを保存。最初の保存の時は、任意の名前をつける
+- [Ctrl]+[S]キーでシーンを保存
 - [File]メニューから[Save Project]を選択して、プロジェクトを保存
 - **GitHub Desktop** を起動する
 - *File*メニューから、*Options*をクリック
@@ -18,19 +18,19 @@
 - *Keep this code private* はチェックしたままにする
 - *Publish repository*ボタンをクリック
 
-## 提出用に、教員のアカウントをチームに入れておく
+## 提出用に、教員のアカウントを登録する
 そのままだと提出しても教員から見えないので、以下の手順でリポジトリーに教員を追加する。
 
-- Chromeのシークレットウィンドウを起動
+- Google Chromeシークレットモードを開く
 - github.com を開く
 - サインインする
 - 作成したリポジトリーを開く
-- 右の方にある*Settings*をクリック
-- 左の方にある*Collaborators*をクリック
-- 要求されたらパスワードを入力(要求がなければ次へ)
-- *Collaborators*欄のテキストボックスに`tanakaedu`と入力して、表示される`tanakaedu Yu Tanaka*を選択したら、*Add collaborator*ボタンをクリック
-- 追加した*Yu Tanaka*の横に表示される*Copy invite link*ボタンをクリックして、URLの隣のボタン(![コピーボタン](images/copy-button.png))をクリックしてコピー
-- 指示されたGoogleシートなどに、コピーしたURLを貼り付ける(Ctrl+Vキー)
+- 右の方にある歯車アイコンの*Settings*をクリック
+- 左の方にある*Manage access*をクリック
+- GitHubのパスワードを入力
+- 緑色の*Invite teams or people*ボタンをクリック
+- 指示された教員のアカウントを入力して、表示された教員のアカウントをクリックして選択
+- *Write*を選択したら、*Add*から始まる緑色のボタンをクリック
 
 以上で設定完了です。
 
@@ -42,3 +42,4 @@
 - *Summary*欄に変更した内容を書く(ボタンの追加、完成など)
 - *Commit to master*ボタンをクリック
 - 右上の*Push origin*ボタンをクリック
+
