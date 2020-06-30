@@ -13,6 +13,7 @@
 
 # 4回目
 ## 話題
+- [Unity. Learn Premium が誰でも無料でご利用できるようになりました](https://blogs.unity3d.com/jp/2020/06/23/learn-premium-is-now-available-to-everyone-at-no-cost-forever/?utm_campaign=unitynews_japan_newsletter_2020-6-JP-June-Newsletter&utm_content=2020-6-JP-Newsletter-game&utm_medium=email&utm_source=Eloqua)
 - [Monaca Education. Webフロントエンド開発の学習サービス](https://edu.monaca.io/)
 
 ## 前回復習の振り返り
