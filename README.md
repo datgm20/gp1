@@ -16,6 +16,10 @@
 - [Unity. Learn Premium が誰でも無料でご利用できるようになりました](https://blogs.unity3d.com/jp/2020/06/23/learn-premium-is-now-available-to-everyone-at-no-cost-forever/?utm_campaign=unitynews_japan_newsletter_2020-6-JP-June-Newsletter&utm_content=2020-6-JP-Newsletter-game&utm_medium=email&utm_source=Eloqua)
 - [Monaca Education. Webフロントエンド開発の学習サービス](https://edu.monaca.io/)
 
+## 昨日の積み残しの確認
+- [PC保有アンケート](https://forms.gle/u4fcc8GzKpDAeaPv9)
+- [UnityプロジェクトをGitHubにパブリッシュして、教員に共有](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+
 ## 前回復習の振り返り
 - fukuv0625のIssuesに「問題ありませんでした」とある満点の人 **7名**
   - 復習に問題なかった人 **10名**
