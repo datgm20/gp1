@@ -12,6 +12,29 @@
 - [講義ふり返り動画-03 6/25](https://youtu.be/GvGI0bRRpdA)
 - [講義ふり返り動画-02 6/18](https://youtu.be/OXJdRh83uiw)
 
+# 5回目
+## 前回の提出結果
+- 正解 8名
+  - ＋ボーナス 2名
+  - ほぼ問題なし 10名
+  - 前回と今回のどちらか一方でも正解 11名
+
+## 前回の復習
+- Visual C#の新規プロジェクトを作成して、名前を`fukuv0709`にする
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- 以下のものを作る
+  - ラベル(Label)を1つ
+  - ボタン(Button)を4つ作って十字に配置
+  - ボタンを押した方向にラベルが動くようにする
+- できたらコミットして、Pushする
+
+## 予定
+- GitHubの左上のオクトキャットアイコンをクリックして、csharp-manual リポジトリーを開く
+- 06.md コントロール(Control)～表現を増やす～ から
+- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+  - [UnityプロジェクトをGitHubにパブリッシュして、教員に共有](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+
+
 # 4回目
 ## 話題
 - [Unity. Learn Premium が誰でも無料でご利用できるようになりました](https://blogs.unity3d.com/jp/2020/06/23/learn-premium-is-now-available-to-everyone-at-no-cost-forever/?utm_campaign=unitynews_japan_newsletter_2020-6-JP-June-Newsletter&utm_content=2020-6-JP-Newsletter-game&utm_medium=email&utm_source=Eloqua)
@@ -48,11 +71,9 @@
 - できたらコミットして、Pushする
 
 
-## 予定
+## 内容
 - GitHubを開いてSign inしたら、csharp-manual を開く
-- 05.md 計算 から
-- [Unityでの物の動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
-  - [UnityプロジェクトをGitHubにパブリッシュして、教員に共有](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+- 05.md 計算
 
 
 # 3回目
