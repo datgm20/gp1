@@ -9,7 +9,7 @@
 - *Sign in* ボタンをクリックして、GitHubアカウントでサインイン
 - *File*メニューから*New Repository*(リポジトリー)
 - *Local path*の*Choose*ボタンをクリック
-- *ドキュメント* > *名前のフォルダー* から、登録したいUnityのプロジェクトフォルダーを開いて、フォルダーの選択をクリック
+- *ドキュメント* > *名前のフォルダー* から、登録したいUnityのプロジェクトフォルダーをクリックして、フォルダーの選択をクリック
 - *Local path*の最後のフォルダー名を選択して、切り取って、*Name*欄に貼り付け
 - *Initialize this repository with a README* にチェック
 - *Git ignore*欄をクリックして、`un`と入力すると*Unity*が選択されるのでクリックなどして選択
