@@ -19,11 +19,13 @@
 - [Unityステーション. ユーザコミュニティトーク](https://www.youtube.com/watch?v=S9kKTFABNFA)
   - [unityroomのnaichiさんのツイート](https://twitter.com/naichilab/status/1281553273195913216)
 
-## 確認
+## 前回の復習の確認
+- 正解 14名。うち、8名がボーナス
+- フォルダー間違いなどの軽微なミス 3名
 - 前回提出したfukuv0709をダウンロードして読み込んでみる
   - フォルダーの登録間違いをするとどうなるか
 
-## 前回の復習
+## 復習問題
 - Visual C#の新規プロジェクトを作成して、名前を`fukuv0716`にする
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm20/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - フォームに以下を設置
