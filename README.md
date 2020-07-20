@@ -15,6 +15,17 @@
 - [講義ふり返り動画-03 6/25](https://youtu.be/GvGI0bRRpdA)
 - [講義ふり返り動画-02 6/18](https://youtu.be/OXJdRh83uiw)
 
+# 7回目
+## 前回の復習の確認
+- 正解 12名(-2)
+  - +ボーナス 9名(+1)
+- フォルダー間違いが大幅減。
+
+## 内容
+- 07.md 変数～動的なプログラム～ の続き(u0716)から
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+
+
 # 6回目
 ## 話題
 - [Unityステーション. ユーザコミュニティトーク](https://www.youtube.com/watch?v=S9kKTFABNFA)
@@ -42,9 +53,8 @@
 - 上記ができた人向けのボーナス課題
   - ボタンを4つ、十字に配置して、ボタンを押したらその方向にラベルの移動方向が変わるようにする
 
-## 予定
-- 07.md 変数～動的なプログラム～ から
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+## 内容
+- 07.md 変数～動的なプログラム～ からをUnityで実施
 
 
 # 5回目
