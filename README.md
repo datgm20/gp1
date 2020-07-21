@@ -15,6 +15,11 @@
 - [講義ふり返り動画-03 6/25](https://youtu.be/GvGI0bRRpdA)
 - [講義ふり返り動画-02 6/18](https://youtu.be/OXJdRh83uiw)
 
+## 環境設定
+- [Unity2019.3.15f1インストール手順](https://youtu.be/QlQYoIuif6s)
+- Visual Studio 2019 CommunityでC#を開発するための設定手順(近日公開予定)
+- GitHub Desktopのインストール手順(近日公開予定)
+
 # 7回目
 ## 前回の復習の確認
 - 正解 12名(-2)
