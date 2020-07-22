@@ -18,7 +18,7 @@
 ## 環境設定
 - [Unity2019.3.15f1インストール手順](https://youtu.be/QlQYoIuif6s)
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
-- GitHub Desktopのインストール手順(近日公開予定)
+- [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
 # 7回目
 ## 前回の復習の確認
