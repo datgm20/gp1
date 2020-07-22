@@ -25,6 +25,9 @@
 - 正解 12名(-2)
   - +ボーナス 9名(+1)
 
+## 復習問題
+- [復習問題](https://github.com/datgm20/gp1/wiki/7%E5%9B%9E%E7%9B%AE%E5%BE%A9%E7%BF%92%E5%95%8F%E9%A1%8C)
+
 ## 内容
 - 07.md 変数～動的なプログラム～ の続き(u0716)から
 - [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
