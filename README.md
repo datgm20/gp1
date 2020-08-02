@@ -21,6 +21,21 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+# 8回目
+## 前回の復習の確認
+- 正解 10名(-2)
+  - +ボーナス 6名(-3)
+  - 軽微なミス 2名
+
+## 復習問題　兼　今日の演習用プロジェクト
+- [復習問題]()
+
+
+## 予定
+- 分岐(1) if文(その1～基本形～)
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+  
+
 # 7回目
 ## 前回の復習の確認
 - 正解 12名(-2)
@@ -31,7 +46,6 @@
 
 ## 内容
 - 07.md 変数～動的なプログラム～ の続き(u0716)から
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
 
 
 # 6回目
