@@ -22,6 +22,19 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+# 9回目
+## 前回の復習の確認
+
+## 復習問題 兼 今日の演習用プロジェクト
+- 指示書
+
+## 予定
+- 分岐(2) その2～複数の条件判断～ から
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+
+
+---
+
 # 8回目
 ## 前回の復習の確認
 - 正解 10名(-2)
@@ -32,9 +45,8 @@
 - [復習問題](https://github.com/datgm20/gp1/wiki/8%E5%9B%9E%E7%9B%AE%E5%BE%A9%E7%BF%92%E5%95%8F%E9%A1%8C)
 
 
-## 予定
+## 内容
 - 分岐(1) if文(その1～基本形～)
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
   
 
 # 7回目
