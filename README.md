@@ -23,6 +23,9 @@
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
 # 9回目
+## 話題
+- [スイカ割り](https://unityroom.com/games/suikawarigame)
+
 ## 前回の復習の確認
 - 正解 10名(+-0)
   - +ボーナス 6名(+-0)
