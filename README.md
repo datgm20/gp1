@@ -23,6 +23,22 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+# 10回目
+
+## 前回の復習の確認
+- 正解 名()
+  - +ボーナス 名()
+  - 軽微なミス 名()
+
+## 復習問題 兼 今日の演習用プロジェクト
+- 指示書
+
+## 予定
+- ラベル3つを独立させて移動させる
+- 配列～沢山のものを動かす（１）～ から
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+
+
 # 9回目
 ## 話題
 - [スイカ割り](https://unityroom.com/games/suikawarigame)
@@ -35,10 +51,9 @@
 ## 復習問題 兼 今日の演習用プロジェクト
 - [指示書](https://github.com/datgm20/gp1/wiki/9%E5%9B%9E%E7%9B%AE%E5%BE%A9%E7%BF%92%E5%95%8F%E9%A1%8C)
 
-## 予定
+## 内容
 - [分岐(2) その2～複数の条件判断～](https://github.com/datgm20/csharp-manual/blob/master/11.md) から
   - [復習問題に跳ね返りを加えたForm1.cs](https://github.com/datgm20/v0827/blob/master/v0827/Form1.cs)
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
 
 
 ---
