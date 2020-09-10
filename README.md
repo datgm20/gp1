@@ -39,6 +39,7 @@
 
 ## 演習
 - [ミニゲームの製作](https://github.com/datgm20/csharp-manual/blob/master/16.md)
+- [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
 
 ## 時間があったら
 - [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
