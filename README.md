@@ -26,6 +26,28 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+# 12回目
+## 前期の残り
+- 10/1にまとめの総合復習課題を実施予定
+
+## 前回の復習の確認
+
+## 予定
+- gp20でログイン
+- GitHubにパブリッシュしていた yoketoruvs20 をクローン(Clone)する
+  - 先週休んでいたか、作業を完了できなかった人は以下をやる
+    - yoketoruvs20 がすでにあったら、Settingsメニューから削除しておく
+    - https://github.com/datgm20/yoketoruvs20 を開く
+    - 右上の Fork ボタンをクリック
+    - 自分のアカウントへの Fork が完了したら、Codeボタンをクリックして、 Open with GitHub Desktop をクリック
+    - ドキュメントの自分の名前のフォルダーにクローンする 
+- [ミニゲームの製作](https://github.com/datgm20/csharp-manual/blob/master/16.md)
+- [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
+
+## 時間があったら
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+
+
 # 11回目
 
 ## 前回の復習の確認
@@ -36,15 +58,12 @@
 ## 復習問題
 - [指示書](https://github.com/datgm20/gp1/wiki/11%E5%9B%9E%E7%9B%AE%E5%BE%A9%E7%BF%92%E5%95%8F%E9%A1%8C)
 
-## 予定
+## 内容
 - 繰り返し(for文)～沢山のものを動かす（２）～ の残っている演習をやって仕上げる
 
 ## 演習
 - [ミニゲームの製作](https://github.com/datgm20/csharp-manual/blob/master/16.md)
 - [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
-
-## 時間があったら
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
 
 
 # 10回目
