@@ -48,7 +48,7 @@
 - [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
 
 ## よけとるvs2020TODOリスト
-- [ ] 状態遷移を完成させる
+- [x] 状態遷移を完成させる
   - ゲームオーバーの初期化
   - クリアの初期化
   - スタートへボタンの実装
