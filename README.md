@@ -9,6 +9,7 @@
 # 授業資料
 - [質問](https://meet.google.com/yav-uzhd-wjq)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
+- [講義ふり返り動画-12 9/17]()
 - [講義ふり返り動画-11前半 9/10](https://youtu.be/fryTKYIyvyA)
 - [講義ふり返り動画-11後半 9/10](https://youtu.be/p2xio5tc4R0)
 - [講義ふり返り動画-10 9/3](https://youtu.be/Keut4_hNPp8)
@@ -26,6 +27,53 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+# 13回目
+## 課題の確認
+- 前回の最後に指示した以下の課題を開いて、開始したら、Meetで画面共有する
+
+## 今日までの課題
+- ゲーム開始時に、すべてのvxとvyに、`-SpeedMax`～`SpeedMax`の範囲の乱数を代入
+- ゲーム中のみ、敵とアイテムを移動
+- 敵とアイテムは、フォームの端で跳ね返す
+
+## 予定
+- [ミニゲームの製作](https://github.com/datgm20/csharp-manual/blob/master/16.md)
+- [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
+
+## よけとるvs2020TODOリスト
+- [x] 状態遷移を完成させる
+  - [x] ゲームオーバーの初期化
+  - [x] クリアの初期化
+  - [x] スタートへボタンの実装
+- [ ] キャラクター管理のための定義
+  - [x] キャラクター数を定数で定義
+  - [x] キャラクターインデックスを定数で定義
+  - アイテムと敵の残りの数を管理する変数を定義
+- [ ] ゲームの初期化
+  - タイムの初期化
+  - [x] プレイヤーの作成
+  - [x] 敵の作成
+  - [x] アイテムの作成
+- [ ] タイムの更新
+- [x] プレイヤーの操作
+  - [x] マウス座標にくっつけてプレイヤーラベルを移動
+- [ ] 敵とアイテムの移動
+  - 移動と跳ね返り
+- [ ] プレイヤー(マウスカーソル)と敵やアイテムとの当たり判定
+  - とりあえずメッセージ表示
+- [ ] ぶつかった相手を見分ける
+  - 方法の検討と実装
+- [ ] ゲームオーバーへ
+- [ ] アイテムを取る
+  - 問題発生！原因を考える
+  - 解決策を検討する
+- [ ] ハイスコア判定
+
+
+## 時間があったら
+- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
+
+
 # 12回目
 ## 次回までの課題
 - ゲーム開始時に、すべてのvxとvyに、`-SpeedMax`～`SpeedMax`の範囲の乱数を代入
@@ -40,7 +88,7 @@
   - +ボーナス 9名(+-0)
 - 軽微なミス 2名
 
-## 予定
+## 内容
 - gp20でログイン
 - GitHubにパブリッシュしていた yoketoruvs20 をクローン(Clone)する
   - 先週休んでいたか、作業を完了できなかった人は以下をやる
@@ -80,10 +128,6 @@
   - 問題発生！原因を考える
   - 解決策を検討する
 - [ ] ハイスコア判定
-
-
-## 時間があったら
-- [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
 
 
 # 11回目
