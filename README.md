@@ -9,7 +9,7 @@
 # 授業資料
 - [質問](https://meet.google.com/yav-uzhd-wjq)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
-- [講義ふり返り動画-12 9/17]()
+- [講義ふり返り動画-12 9/17](https://youtu.be/27hOQ0Uh0zE)
 - [講義ふり返り動画-11前半 9/10](https://youtu.be/fryTKYIyvyA)
 - [講義ふり返り動画-11後半 9/10](https://youtu.be/p2xio5tc4R0)
 - [講義ふり返り動画-10 9/3](https://youtu.be/Keut4_hNPp8)
