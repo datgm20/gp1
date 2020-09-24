@@ -68,7 +68,9 @@
   - 問題発生！原因を考える
   - 解決策を検討する
 - [ ] ハイスコア判定
-
+- [ ] キャラクターの大きさを設定する
+  - ひな型のラベルを定義
+  - ひな型のラベルの設定をキャラクターにコピーする
 
 ## 時間があったら
 - [ベクトルの基礎](https://docs.google.com/document/d/1bptMOCYRdX4_IP8uhToeYloXgRh7C9v-nC1yLI8EFSE/edit#heading=h.d99a40vmi848)
