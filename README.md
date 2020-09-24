@@ -36,6 +36,10 @@
 - ゲーム中のみ、敵とアイテムを移動
 - 敵とアイテムは、フォームの端で跳ね返す
 
+## 次回までの課題
+- 今日までの作業が完了しなかった人は、そこまで自力で終わらせる
+- プロジェクトを開いて考えたり作業している時や、ふり返り動画を見ている時の日時を、Googleドキュメントやスマホのメモ帳などに記録しておいて、次回、すぐに提出できるようにする
+
 ## 予定
 - [ミニゲームの製作](https://github.com/datgm20/csharp-manual/blob/master/16.md)
 - [作業メモ](https://docs.google.com/document/d/1kI4-tORWc4josCHCQRHewEsNQ72IgYwsZ4rm-ZQ_wHU/)
