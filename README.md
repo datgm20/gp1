@@ -32,6 +32,13 @@
 - [Visual Studio 2019 CommunityでC#を開発するための設定手順](https://youtu.be/UBHH6Nx0R-o)
 - [GitHub Desktopのインストール手順](https://youtu.be/fFqQuozo9RM)
 
+## Unity Tips
+- [Unityのキーやクリック入力](https://youtu.be/JEkGwMsfhJw)
+- [シーンの切り替え方、追加読み込み](https://docs.google.com/document/d/1b-fEcK0ukqNPFud4aNV1lige0wnLZwxQnathiJFyz3M/)
+- [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+- [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
+- [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
+
 # 後期1回目
 
 ## 課題の発表
@@ -46,9 +53,10 @@
   - テキストファイルの場合、 `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\gp1yoketoruvs20` に自分の名前のフォルダーを作成して、その中に提出
   - Googleドキュメントで作成した場合は、 [こちら](https://forms.gle/EfD6xBZ6rY8Ex7Kb8) を開いて、氏名と リンクを知っている人が閲覧 できるようにした共有URLを貼り付けて送信
 
-## 予定
+## 内容
 - 完成手順紹介
 - Unity版よけとるの開発
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 ---
 
