@@ -13,6 +13,7 @@
 # 授業資料
 - [質問](https://meet.google.com/yav-uzhd-wjq)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
+- [講義ふり返り動画-後期-1回目 10/8](https://youtu.be/TarSxSu42qI)
 - [講義ふり返り動画-13 9/24](https://youtu.be/ptECX_lncVc)
 - [講義ふり返り動画-12 9/17](https://youtu.be/27hOQ0Uh0zE)
 - [講義ふり返り動画-11前半 9/10](https://youtu.be/fryTKYIyvyA)
