@@ -1,7 +1,3 @@
-## 注：10/1に講義がある前提で進めましたが休講でした。次回は10/8です
-## 課題の締め切りも、再来週の10/8に延長します。2週間じっくり取り組んでください
-
-
 # ゲームプログラミング1年生-2020年度入学生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tlVWmEGx-XJvimOA?e=qdTo1h)
 
@@ -39,6 +35,11 @@
 - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
 - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
+
+# 後期2回目
+## 予定
+- Unity版よけとるの開発。オブジェクト作成から
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 # 後期1回目
 
