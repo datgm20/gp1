@@ -38,7 +38,8 @@
 
 # 後期2回目
 ## 予定
-- Unity版よけとるの開発。オブジェクト作成から
+- Unity版よけとるの開発。プレイヤーの移動
+  - ふり返り： https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/
   - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 # 後期1回目
