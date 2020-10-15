@@ -37,8 +37,15 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
-# 後期2回目
+# 後期3回目
 ## 予定
+- Unity版よけとるの開発。画面端の処理
+  - ふり返り： https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+
+
+# 後期2回目
+## 内容
 - Unity版よけとるの開発。プレイヤーの移動
   - ふり返り： https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/
   - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
