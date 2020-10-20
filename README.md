@@ -38,6 +38,14 @@
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
 # 後期3回目
+## 話題
+- なぜ、勉強を続けなければならないのか
+  - →　なぜ、新しいイベントやストーリー、ゲーム、ハードウェアが欲しいのか
+  - ゲーム開発の変遷
+- 何を身につけたのか、より、新しいことを身につけ続けられること
+  - 国語（読解力、作文力）、数学の力を磨くのが真の目的。英語にも慣れておきたい
+- [paiza開発日誌. 転職前に知りたい「今、ITエンジニアに向いていない人」5つの特徴](https://paiza.hatenablog.com/entry/2020/10/16/153000)
+
 ## 予定
 - Unity版よけとるの開発。画面端の処理
   - ふり返り： https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/
