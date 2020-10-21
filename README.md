@@ -47,8 +47,14 @@
 - [paiza開発日誌. 転職前に知りたい「今、ITエンジニアに向いていない人」5つの特徴](https://paiza.hatenablog.com/entry/2020/10/16/153000)
 
 ## 予定
+- ベクトル演習
+  - [VectorDemo](https://github.com/datgm20/VectorDemo) を右クリック > 新しいタブで開く
+  - Forkする
+  - Code > Open with GitHub Desktop でクローン
+  - Unityで開く
+  - 参考：[Unityマニュアル. ベクトル演算を理解する](https://docs.unity3d.com/ja/2020.1/Manual/UnderstandingVectorArithmetic.html)
 - Unity版よけとるの開発。画面端の処理
-  - ふり返り： https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/
+  - [ふり返り](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
   - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 
