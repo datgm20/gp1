@@ -37,6 +37,26 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
+# 後期4回目
+## 話題
+- 知らないから調べられない？
+  -　検索ワードを考える
+  - 検索結果にちゃんと目を通す
+
+## 予定
+- 前回の画面端からの距離の算出の復習
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+- 解答例
+- プレイヤーを画面外に出さない処理
+- キャラクターを跳ね返す
+
+## 時間があれば
+- VectorDemoで外積演習
+  - 参考：[Unityマニュアル. ベクトル演算を理解する](https://docs.unity3d.com/ja/2020.1/Manual/UnderstandingVectorArithmetic.html)
+- Unity版よけとるの開発。画面端の処理
+  - [ふり返り](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+
+
 # 後期3回目
 ## 話題
 - なぜ、勉強を続けなければならないのか
@@ -46,7 +66,7 @@
   - 国語（読解力、作文力）、数学の力を磨くのが真の目的。英語にも慣れておきたい
 - [paiza開発日誌. 転職前に知りたい「今、ITエンジニアに向いていない人」5つの特徴](https://paiza.hatenablog.com/entry/2020/10/16/153000)
 
-## 予定
+## 内容
 - ベクトル演習
   - [VectorDemo](https://github.com/datgm20/VectorDemo) を右クリック > 新しいタブで開く
   - Forkする
