@@ -41,7 +41,8 @@
 # 後期4回目
 ## 話題
 - [Unity Blog. より安定したゲームプレイを実現する Unity 2020.2 の Time.deltaTime 修正 ― それはどのように成されたのか](https://blogs.unity3d.com/jp/2020/10/01/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take/)
-
+  - [Unity Japan. 動画解説](https://www.youtube.com/watch?v=TP7N57r5Tqw&feature=youtu.be)
+  
 ## 振り返り
 - 作業時間 多い順トップ5(※yoketoruの時間だけで、他の勉強時間が含まれない可能性があるので成績には反映させていません。参考までに)
   - 38時間, 21時間, 20時間, 18時間半, 14時間
