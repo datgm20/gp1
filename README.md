@@ -38,17 +38,9 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
-# 後期4回目
+# 後期5回目
 ## 話題
-- [Unity Blog. より安定したゲームプレイを実現する Unity 2020.2 の Time.deltaTime 修正 ― それはどのように成されたのか](https://blogs.unity3d.com/jp/2020/10/01/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take/)
-  - [Unity Japan. 動画解説](https://www.youtube.com/watch?v=TP7N57r5Tqw&feature=youtu.be)
 - [Unity2020.2から使えるようになるC# 8.0](https://docs.microsoft.com/ja-jp/dotnet/csharp/whats-new/csharp-8)
-  
-## 振り返り
-- 作業時間 多い順トップ5(※yoketoruの時間だけで、他の勉強時間が含まれない可能性があるので成績には反映させていません。参考までに)
-  - 38時間, 21時間, 20時間, 18時間半, 14時間
-  - 参考記録： 62時間
-- [おもちゃラボ. 【Unity】画面四隅のワールド座標を取得する](https://nn-hokuson.hatenablog.com/entry/2020/10/22/205233)
 
 ## 予定
 - 前回の画面端からの距離の算出の復習
@@ -66,6 +58,23 @@
 - 立場を逆にして考える
   - 何故、お金を払ったのか？
   - 何故、お金を払う気にならないのか？
+
+
+# 後期4回目
+## 話題
+- [Unity Blog. より安定したゲームプレイを実現する Unity 2020.2 の Time.deltaTime 修正 ― それはどのように成されたのか](https://blogs.unity3d.com/jp/2020/10/01/fixing-time-deltatime-in-unity-2020-2-for-smoother-gameplay-what-did-it-take/)
+  - [Unity Japan. 動画解説](https://www.youtube.com/watch?v=TP7N57r5Tqw&feature=youtu.be)
+  
+## 振り返り
+- 作業時間 多い順トップ5(※yoketoruの時間だけで、他の勉強時間が含まれない可能性があるので成績には反映させていません。参考までに)
+  - 38時間, 21時間, 20時間, 18時間半, 14時間
+  - 参考記録： 62時間
+- [おもちゃラボ. 【Unity】画面四隅のワールド座標を取得する](https://nn-hokuson.hatenablog.com/entry/2020/10/22/205233)
+
+## 内容
+- 前回の画面端からの距離の算出の復習
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+  - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
 
 ## 時間があれば
 - VectorDemoで外積演習
