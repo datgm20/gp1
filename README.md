@@ -53,6 +53,7 @@
 ## 予定
 - 前回の画面端からの距離の算出の復習
   - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+  - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
 - 解答例
 - プレイヤーを画面外に出さない処理
 - キャラクターを跳ね返す
