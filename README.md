@@ -41,6 +41,7 @@
 # 後期5回目
 ## 話題
 - [Unity2020.2から使えるようになるC# 8.0](https://docs.microsoft.com/ja-jp/dotnet/csharp/whats-new/csharp-8)
+- [@OKsaiyowa. Rayではなく内積(Vector3.Dot)で視線判定を行う](https://qiita.com/OKsaiyowa/items/6b93fe41b33061abf5aa)
 
 ## 予定
 - 前回の画面端からの距離の算出の復習
