@@ -38,6 +38,19 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
+# 後期6回目
+## 課題
+- 画面内に跳ね返らせるBoundCheckerを完成させる
+  - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+  - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
+
+## 予定
+- 跳ね返り処理の解析と実装
+- Unityのランダム、画面内の配置
+- 速度設定
+- 移動を一定速度に固定する
+- 跳ね返りが消えないようにする
+
 # 後期5回目
 ## 話題
 - [Unity2020.2から使えるようになるC# 8.0](https://docs.microsoft.com/ja-jp/dotnet/csharp/whats-new/csharp-8)
