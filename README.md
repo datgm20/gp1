@@ -59,12 +59,9 @@
   - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
   - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
 
-## 予定
+## 内容
 - 跳ね返り処理の解析と実装
 - Unityのランダム、画面内の配置
-- 速度設定
-- 移動を一定速度に固定する
-- 跳ね返りが消えないようにする
 
 # 後期5回目
 ## 話題
