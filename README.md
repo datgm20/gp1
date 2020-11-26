@@ -38,16 +38,26 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
-# 後期7回目
+# 後期8回目
 - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+
+## 演習課題
+- ヒントをもとに、Mover.csのFixedUpdate()に、速度を一定に保つ処理を実装する
 - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
 
 ## 予定
+- 演習課題の提出と答え合わせ
+- 跳ね返りが消えないようにする設定
+
+
+# 後期7回目
+- [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+
+## 内容
 - 速度設定
-  - SinとCos
-- 複数表示と数の管理
+  - [SinとCos](https://docs.google.com/presentation/d/1slgz2M9k-dDXfAhQSq9yM_Evl1kNC0XE2GM0tD5AIe8/)
+- 複数表示
 - 移動を一定速度に固定する
-- 跳ね返りが消えないようにする
 
 ## 演習
 - プレイヤーを画面内に留める処理が、カメラを回転させていると動かなくなる。その原因を調査して、解決する
