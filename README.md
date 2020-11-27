@@ -45,6 +45,21 @@
 - ヒントをもとに、Mover.csのFixedUpdate()に、速度を一定に保つ処理を実装する
 - [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
 
+## 追加演習
+- `Mover.cs`の`FixedUpdate()`関数の最初に、以下のコードを追加しなさい
+
+```cs
+        if (Input.GetKey(KeyCode.Z))
+        {
+            rb.velocity = Vector3.zero;
+        }
+```
+
+- 上書き保存して、UnityをPlayしたら、ゲームを開始します。`Z`キーを押した時に、キャラクターが停止せずに向きを変えて移動し続けることを確認しなさい
+- キャラクターが停止する場合、演習の条件がうまく守れていません。原因を考え、修正してください
+- [演習の提出先](https://forms.gle/wicfkajW566oxY4t5)
+
+
 ## 予定
 - 演習課題の提出と答え合わせ
 - 跳ね返りが消えないようにする設定
