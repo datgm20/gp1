@@ -39,6 +39,12 @@
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
 # 後期8回目
+## 話題
+- [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
+  - 12/17エントリー締め切り
+  - 12/18 20:00から48時間
+
+## 予定
 - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 ## 演習課題
