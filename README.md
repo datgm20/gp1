@@ -38,13 +38,30 @@
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 
+# 後期9回目
+## 話題
+- [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
+  - 12/17エントリー締め切り
+  - 12/18 20:00から48時間
+
+## 課題
+- スタートボタン周りの出現禁止処理を実装する
+- [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+
+## 予定
+- ゲームオーバー、クリア時に動きを止める
+  - 時間制御
+  - UIアニメーション
+- コルーチン
+  - ゲームオーバー、クリアに切り替わってから、一定時間経ってからランキング表示
+
 # 後期8回目
 ## 話題
 - [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
   - 12/17エントリー締め切り
   - 12/18 20:00から48時間
 
-## 予定
+## 内容
 - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 ## 演習課題
