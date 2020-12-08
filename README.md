@@ -43,6 +43,7 @@
 - [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
   - 12/17エントリー締め切り
   - 12/18 20:00から48時間
+- [天神いな. 現役ゲームプログラマが解説。ゲーム開発の知識・技術を教えます！](https://www.youtube.com/c/ina-amagami/videos)
 
 ## 課題
 - スタートボタン周りの出現禁止処理を実装する
