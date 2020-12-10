@@ -40,6 +40,9 @@
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
 - [コルーチン](https://docs.google.com/document/d/1fJ-RhaShsv67pdzF5znX4Y9CTfy-WRDUqpiMNonMbFM/)
 
+## いずれやりたいこと
+- カードの配布
+
 # 後期9回目
 ## 話題
 - [ClusterGAMEJAM2020 in WINTER](https://www.contest.cluster.mu/gamejam2020winter-home)
