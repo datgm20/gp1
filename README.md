@@ -51,6 +51,7 @@
 ## 課題
 - スタートボタン周りの出現禁止処理を実装する
 - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
+- [提出先](https://docs.google.com/forms/d/e/1FAIpQLScwmW00eT5OStPVs5NPgmQz7nLFvqy5j__7K53k4P98XfoNaQ/viewform?usp=sf_link)
 
 ## 予定
 - ゲームオーバー、クリア時に動きを止める
