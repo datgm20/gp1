@@ -46,7 +46,8 @@
 # 後期10回目
 ## Slackへの接続
 - [datgm20.slack.com](https://datgm20.slack.com) を開く
-- Google Chromeシークレットモードだとポップアップの問題で開けない可能性あり。その場合、Edgeから開く
+- Popupが原因で開けない場合、**Edge**で開く
+  - PCによって振る舞いが違う？
 - Googleでサインイン
 
 ## 予定
