@@ -44,6 +44,11 @@
 - カードの配布
 
 # 後期10回目
+## Slackへの接続
+- [datgm20.slack.com](https://datgm20.slack.com) を開く
+- Google Chromeシークレットモードだとポップアップの問題で開けない可能性あり。その場合、Edgeから開く
+- Googleでサインイン
+
 ## 予定
 - [曲のビートのタイミングを計算する方法](https://am1tanaka.hatenablog.com/entry/beat-calc)
 - 1週間ゲームジャム　素振り
