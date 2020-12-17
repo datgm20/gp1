@@ -1,3 +1,5 @@
+[Slackの招待リンク](https://join.slack.com/t/datgm20/shared_invite/zt-k1qwih0j-o9Hl3SYOwD3WC01Z2JaXnQ)
+
 # ゲームプログラミング1年生-2020年度入学生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tlVWmEGx-XJvimOA?e=qdTo1h)
 
