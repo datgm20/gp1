@@ -45,6 +45,10 @@
 - カードの配布
 
 # 後期11回目
+
+## 先週の読解の振り返り
+- [解答一覧](https://github.com/datgm20/design/wiki/%E5%BE%8C%E6%9C%9F10%E5%9B%9E%E7%9B%AE%E8%AA%AD%E8%A7%A3%E4%BD%9C%E6%96%87%E7%B7%B4%E7%BF%92)
+
 ## 予定
 - Slackに自分の活動報告用のチャンネルを作成する
   - Slackに接続
