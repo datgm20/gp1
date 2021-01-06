@@ -61,7 +61,7 @@
 - 1週間ゲームジャム未完成
   - 作品開発
 
-## 次回
+## 次回予定
 - [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ
 
