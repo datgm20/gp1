@@ -58,6 +58,8 @@
 - [命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - 1週間ゲームジャム公開済み
   - 1週間ゲームジャムのプロジェクトの整理 / ポートフォリオ作成
+  - 公開していて未報告の人は以下へ報告
+    - [ポートフォリオURL報告先](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 - 1週間ゲームジャム未完成
   - 作品開発
 
