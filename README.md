@@ -57,9 +57,13 @@
 - 1週間ゲームジャムのまとめ
 - [命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - 1週間ゲームジャム公開済み
-  - プログラムの整理 / [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
+  - 1週間ゲームジャムのプロジェクトの整理 / ポートフォリオ作成
 - 1週間ゲームジャム未完成
   - 作品開発
+
+## 次回
+- [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
+- [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ
 
 # 後期11回目
 
