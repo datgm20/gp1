@@ -42,19 +42,27 @@
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
 - [コルーチン](https://docs.google.com/document/d/1fJ-RhaShsv67pdzF5znX4Y9CTfy-WRDUqpiMNonMbFM/)
 
-## いずれやりたいこと
-- カードの配布
-
-# 後期12回目(1/7)
 ## 今後の予定
 - 1週間ゲームジャムのまとめ：命名規則 / .editorconfig
   - 設計のヒント
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
-- 2時間ゲームジャム
+- 2時間ゲームジャム(できたら)
+- カードの配布(?)
+
+# 後期13回目(1/14)
+## 予定
+- [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
+- 1週間ゲームジャムのまとめ：プロジェクトの整理
+  - 設計のヒント
+- [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける
+  - チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
+
+
+# 後期12回目(1/7)
 
 いつリモートになるか分からないので、Google MeetとSlackのみになっても対応できるように心構えをしておくこと。
 
-## 予定
+## 内容
 - 1週間ゲームジャムのまとめ
 - [命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - 1週間ゲームジャム公開済み
@@ -63,10 +71,6 @@
     - [ポートフォリオURL報告先](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 - 1週間ゲームジャム未完成
   - 作品開発
-
-## 次回予定
-- [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
-- [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ
 
 # 後期11回目
 
