@@ -56,6 +56,9 @@
 
 
 # 後期13回目(1/14)
+## 話題
+- [Gotanda.unity #16 sponsored by 株式会社Donuts](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
+
 ## 予定
 - [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 1週間ゲームジャムのまとめ：プロジェクトの整理
