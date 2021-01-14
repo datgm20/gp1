@@ -60,6 +60,7 @@
 - [Gotanda.unity #16 sponsored by 株式会社Donuts](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
 
 ## 予定
+- [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
 - [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 1週間ゲームジャムのまとめ：プロジェクトの整理
   - 設計のヒント
