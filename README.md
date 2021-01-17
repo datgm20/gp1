@@ -55,11 +55,21 @@
 - **筆記用具を持参**すること
 
 
+# 後期14回目(1/21)
+## 予定
+- [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
+- 1週間ゲームジャムのまとめ：プロジェクトの整理
+  - プロジェクトレビュー
+  - ゲームジャムで開発したプロジェクトは短期プロジェクトなのでキレイに作られていなくて当たり前。指摘の数だけ儲けたぐらいで気軽に聞いて、整理の時に反映させればOK
+- [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける
+  - チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
+
+
 # 後期13回目(1/14)
 ## 話題
 - [Gotanda.unity #16 sponsored by 株式会社Donuts](https://www.youtube.com/watch?v=FTHfVpBfpo0&feature=youtu.be)
 
-## 予定
+## 内容
 - [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
 - [エンジニアの入り口. 初心者向けに徹底解説！オブジェクト指向とは？](https://eng-entrance.com/what-oop)
 - 1週間ゲームジャムのまとめ：プロジェクトの整理
