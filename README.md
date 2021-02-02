@@ -5,6 +5,7 @@
 - [paiza開発日誌. 初心者がC#の基本からアプリ・ゲーム開発まで学ぶための記事まとめ](https://paiza.hatenablog.com/entry/2020/06/09/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8CC%23%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%A2%E3%83%97%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%BE%E3%81%A7%E5%AD%A6%E3%81%B6)
 - [SOLID原則](https://docs.google.com/document/d/1TVdyioxBuSwz89Vh92ziADulEB47P5IMolytxopdBrM/)
 - [Udemy. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/course/unity-chan-tutorial-01/)
+- [Unity Learn日本語ページ](https://learn.unity.com/search?k=%5B%22lang%3Aja%22%5D)
 - [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
 
 # 授業資料
@@ -57,6 +58,7 @@
     - 自分のチャンネルに「開始」「中断」「再開」「終了」に続けて、作業予定や完了内容を箇条書きにして、あとから作業量や経過を振り返ることができるようにしておく
     - 質問を書いておいて、学生間で解決したり、場合によっては教員が解答することもあり
   - 講義ページの上の方のリンク
+  - [Unity Learn日本語ページ](https://learn.unity.com/search?k=%5B%22lang%3Aja%22%5D)
   - [LEGO ”BUILD YOUR OWN GAME!"](https://note.com/unityjapan/n/n2ff9f82bab1a)
   - 1週間ゲームジャムやunityroom、ふりーむ、 https://itch.io/ などへの投稿
   - [cluster](https://cluster.mu/)や[ティラノスクリプト](https://tyrano.jp/)
