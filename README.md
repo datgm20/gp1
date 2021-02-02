@@ -50,6 +50,15 @@
 
 # 後期16回目(2/4)
 
+## 予定
+### 全体
+- 休みの間の自習について
+  - 講義ページの上の方のリンク
+  - [LEGO ”BUILD YOUR OWN GAME!"](https://note.com/unityjapan/n/n2ff9f82bab1a)
+  - 1週間ゲームジャムやunityroom、ふりーむ、 https://itch.io/ などへの投稿
+  - [cluster](https://cluster.mu/)や[ティラノスクリプト](https://tyrano.jp/)
+  - [paizaのスキルチェック](https://paiza.jp/challenges)
+
 ### group_aとgroup_b
 - 引き続きグループ学習： https://creator.cluster.mu/ をグループ学習で身につける
 - 作業経過は `#times_氏名` チャンネルへ都度投稿。質問や問題点、完了報告はグループのチャンネルに報告
