@@ -58,6 +58,7 @@
   - 1週間ゲームジャムやunityroom、ふりーむ、 https://itch.io/ などへの投稿
   - [cluster](https://cluster.mu/)や[ティラノスクリプト](https://tyrano.jp/)
   - [paizaのスキルチェック](https://paiza.jp/challenges)
+    - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 
 ### group_aとgroup_b
 - 引き続きグループ学習： https://creator.cluster.mu/ をグループ学習で身につける
