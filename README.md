@@ -7,6 +7,7 @@
 - [Udemy. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/course/unity-chan-tutorial-01/)
 - [Unity Learn日本語ページ](https://learn.unity.com/search?k=%5B%22lang%3Aja%22%5D)
 - [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
+- [AtCoder.jp 競技プログラミング](https://atcoder.jp/?lang=ja)
 
 # 授業資料
 - [質問](https://meet.google.com/yav-uzhd-wjq)
