@@ -10,7 +10,7 @@
 - [AtCoder.jp 競技プログラミング](https://atcoder.jp/?lang=ja)
 
 # 授業資料
-- [質問](https://meet.google.com/yav-uzhd-wjq)
+- [質問](https://meet.google.com/dyf-fsns-kou)
   - [質問の仕方](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
 - https://datgm20.slack.com/
 - [講義ふり返り動画-後期-1回目 10/8](https://youtu.be/TarSxSu42qI)
