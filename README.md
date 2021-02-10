@@ -42,6 +42,8 @@
 - [Unityマウス操作・座標系](https://docs.google.com/document/d/1g58PS1lautgJ-LV7QT5xnihV-tSk4VQTrmPBjfKPCpw/)
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
 - [コルーチン](https://docs.google.com/document/d/1fJ-RhaShsv67pdzF5znX4Y9CTfy-WRDUqpiMNonMbFM/)
+- [Unityゲーム開発者ギルドとは](https://qiita.com/organizations/unity-game-dev-guild)
+
 
 ## 今後の予定
 - 1週間ゲームジャムのまとめ：命名規則 / .editorconfig
