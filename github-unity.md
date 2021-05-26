@@ -21,7 +21,6 @@
 ## 提出用に、教員のアカウントを登録する
 そのままだと提出しても教員から見えないので、以下の手順でリポジトリーに教員を追加する。
 
-- Google Chromeシークレットモードを開く
 - GitHub DesktopのRepositoryメニューからView on GitHubを選択
 - 右の方にある歯車アイコンの*Settings*をクリック
 - 左の方にある*Manage access*をクリック
