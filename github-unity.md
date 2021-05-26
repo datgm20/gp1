@@ -26,7 +26,7 @@
 - 右の方にある歯車アイコンの*Settings*をクリック
 - 左の方にある*Manage access*をクリック
 - GitHubのパスワードを入力
-- 緑色の*Invite teams or people*ボタンをクリック
+- 緑色の*Invite a Collaborator*ボタンをクリック
 - 指示された教員のアカウントを入力して、表示された教員のアカウントをクリックして選択
 - *Write*を選択したら、*Add*から始まる緑色のボタンをクリック
 
