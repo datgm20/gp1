@@ -22,6 +22,7 @@
 そのままだと提出しても教員から見えないので、以下の手順でリポジトリーに教員を追加する。
 
 - GitHub DesktopのRepositoryメニューからView on GitHubを選択
+- Edgeが開いたら、URLをコピーして、Google シークレットウィンドウの新しいタブを開いて、そこのURLに貼り付けて開く
 - 右の方にある歯車アイコンの*Settings*をクリック
 - 左の方にある*Manage access*をクリック
 - GitHubのパスワードを入力
