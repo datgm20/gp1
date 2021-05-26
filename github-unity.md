@@ -22,9 +22,7 @@
 そのままだと提出しても教員から見えないので、以下の手順でリポジトリーに教員を追加する。
 
 - Google Chromeシークレットモードを開く
-- github.com を開く
-- サインインする
-- 作成したリポジトリーを開く
+- GitHub DesktopのRepositoryメニューからView on GitHubを選択
 - 右の方にある歯車アイコンの*Settings*をクリック
 - 左の方にある*Manage access*をクリック
 - GitHubのパスワードを入力
