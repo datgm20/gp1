@@ -24,7 +24,7 @@
 - GitHub DesktopのRepositoryメニューからView on GitHubを選択
 - Edgeが開いたら、URLをコピーして、Google シークレットウィンドウの新しいタブを開いて、そこのURLに貼り付けて開く
 - 右の方にある歯車アイコンの*Settings*をクリック
-- 左の方にある*Manage access*をクリック
+- 左の方にある*Collaborators and teams*をクリック
 - GitHubのパスワードを入力
 - 緑色の*Add people*ボタンをクリック
 - 指示された教員のアカウントを入力して、表示された教員のアカウントをクリックして選択
